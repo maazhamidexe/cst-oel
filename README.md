@@ -6,7 +6,7 @@ This Flask app analyzes text input provided by the user. It allows the user to p
 To run this application, follow these steps:
 
 1. Clone the repository:
-   git clone <repository_url>
+   git clone https://github.com/maazhamidexe/cst-oel
 
 2. Navigate to the project directory:
    cd flask-text-analysis-app
