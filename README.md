@@ -1,4 +1,3 @@
-# Flask Text Analysis App
 
 This Flask app analyzes text input provided by the user. It allows the user to perform two actions: sentiment analysis and spelling correction.
 
